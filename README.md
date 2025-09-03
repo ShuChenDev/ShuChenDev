@@ -1,13 +1,10 @@
 # Hello World
 
-Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
-
-Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
+Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the University of Ottawa. I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
 
 <!-- ![Shu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuChenDev&show_icons=true&theme=radical) -->
 
 ## Experience
-
 ## Skills
 ### Languages
 
@@ -96,11 +93,3 @@ I am open to collaboration for any cool projects, feel free to connect with me o
 ## Fun Facts
 - 🔭 Enthusiast in all sorts of science and math competitions (returned with numerous medals and honours)
 - 📚 Massive nerd in philosophy and enjoyer of reading classical literature
-
-## Thanks for Visiting!
-Feel free to reach out if you want to collaborate on any projects or just chat about technology!
-
-[![GitHub followers](https://img.shields.io/github/followers/supreme-gg-gg?label=Follow&style=social)](https://github.com/supreme-gg-gg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][1]
-
-[1]:https://www.linkedin.com/in/jet-chiang/
