@@ -1,0 +1,106 @@
+# Hello World
+
+Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
+
+Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
+
+<!-- ![Shu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuChenDev&show_icons=true&theme=radical) -->
+
+## Experience
+
+## Skills
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Stacks
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Software Development Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-000080?style=for-the-badge&logo=doxygen&logoColor=white)
+![CMock/Unity](https://img.shields.io/badge/CMock/Unity-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### Others
+Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
+
+<details>
+
+<summary><h3>Recent Projects</h3></summary>
+
+_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows IN PROGRESS or ACTIVELY MAINTAINED projects._
+
+|Name|Description|My Technologies|GitHub|Status|
+|---|---|---|---|---|
+|Gemma Studio|Web application + Cloud infrastructure for no-code accessible text and multimodal Gemma3 fine tuning| Next.js, HuggingFace, PyTorch, Unsloth, GCP | Coming Soon | WIP (DeepMind)|
+|VSCode Cheerleader|Supercharge your dev experience with an anime coding companion|VSCode Extension API, Electron, ElevenLabs|[vscode-cheerleader](https://github.com/georgeistes/vscode-cheerleader)|Maintenance|
+|Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| [bonsense](https://github.com/supreme-gg-gg/bonsense) | Maintenance|
+|Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
+|MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
+
+</details>
+
+<details>
+<summary><h3>Project Ideas</h3></summary>
+
+I am open to collaboration for any cool projects, feel free to connect with me on **LinkedIn**! Here is a public list of project ideas looking for collaborators:
+
+|Name|Description|Technologies|
+|--|--|--|
+|Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
+|Photo to Film|Turn ordinary smartphone photo into film-like scenes|TBC|
+|RAG Anything MCP|MCP tool to search and create RAG database for anything in the internet|MCP, Python|
+
+</details>
+
+## Contact Me
+- [Contact me through email](mailto:jetjiang.ez@gmail.com)
+- [Connect with me on LinkedIn!](https://www.linkedin.com/in/jet-chiang)
+
+## Fun Facts
+- 🔭 Enthusiast in all sorts of science and math competitions (returned with numerous medals and honours)
+- 📚 Massive nerd in philosophy and enjoyer of reading classical literature
+
+## Thanks for Visiting!
+Feel free to reach out if you want to collaborate on any projects or just chat about technology!
+
+[![GitHub followers](https://img.shields.io/github/followers/supreme-gg-gg?label=Follow&style=social)](https://github.com/supreme-gg-gg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][1]
+
+[1]:https://www.linkedin.com/in/jet-chiang/
