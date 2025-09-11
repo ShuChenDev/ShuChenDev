@@ -1,7 +1,6 @@
 # Hello World
 
-Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the University of Ottawa. I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
-
+Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the University of Ottawa. I'm passionate about software engineering, full-stack web development, especially in providing a product to solve a tangible real life problem.
 <!-- ![Shu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuChenDev&show_icons=true&theme=radical) -->
 
 ## Experience
@@ -36,60 +35,5 @@ Hi there! 👋 I'm Shu Chen, an **Software Engineering** student at the Universi
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Software Development Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
-![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-000080?style=for-the-badge&logo=doxygen&logoColor=white)
-![CMock/Unity](https://img.shields.io/badge/CMock/Unity-00599C?style=for-the-badge&logo=c&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-### Others
-Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
-
-<details>
-
-<summary><h3>Recent Projects</h3></summary>
-
-_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows IN PROGRESS or ACTIVELY MAINTAINED projects._
-
-|Name|Description|My Technologies|GitHub|Status|
-|---|---|---|---|---|
-|Gemma Studio|Web application + Cloud infrastructure for no-code accessible text and multimodal Gemma3 fine tuning| Next.js, HuggingFace, PyTorch, Unsloth, GCP | Coming Soon | WIP (DeepMind)|
-|VSCode Cheerleader|Supercharge your dev experience with an anime coding companion|VSCode Extension API, Electron, ElevenLabs|[vscode-cheerleader](https://github.com/georgeistes/vscode-cheerleader)|Maintenance|
-|Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| [bonsense](https://github.com/supreme-gg-gg/bonsense) | Maintenance|
-|Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
-|MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
-
-</details>
-
 <details>
 <summary><h3>Project Ideas</h3></summary>
-
-I am open to collaboration for any cool projects, feel free to connect with me on **LinkedIn**! Here is a public list of project ideas looking for collaborators:
-
-|Name|Description|Technologies|
-|--|--|--|
-|Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
-|Photo to Film|Turn ordinary smartphone photo into film-like scenes|TBC|
-|RAG Anything MCP|MCP tool to search and create RAG database for anything in the internet|MCP, Python|
-
-</details>
-
-## Contact Me
-- [Contact me through email](mailto:jetjiang.ez@gmail.com)
-- [Connect with me on LinkedIn!](https://www.linkedin.com/in/jet-chiang)
-
-## Fun Facts
-- 🔭 Enthusiast in all sorts of science and math competitions (returned with numerous medals and honours)
-- 📚 Massive nerd in philosophy and enjoyer of reading classical literature
